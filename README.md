@@ -178,3 +178,6 @@ This project directly maps to real FP&A workflows:
 - **Variance Attribution** → Residual analysis + feature importance
 - **API Integration** → FastAPI endpoint for ERP/dashboard integration
 "# Revenue-forecasting-model-" 
+
+## Author
+   "Pavithra Nagineni"
